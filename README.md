@@ -20,16 +20,16 @@
   
 </p>
 <p align="center">
-  <img src="Image/Sales.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 20px;">
+  <img src="Image/Sales.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 30px;">
 </p>
 <p align="center">
-  <img src="Image/Profit.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 20px;">
+  <img src="Image/Profit.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 30px;">
 </p>
 <p align="center">
-  <img src="Image/Quantity.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 20px;">
+  <img src="Image/Quantity.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 30px;">
 </p>
 <p align="center">
-  <img src="Image/Delivery.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 20px;">
+  <img src="Image/Delivery.jpg" alt="E-commerce Dashboard" width="100%" style="margin-bottom: 30px;">
 </p>
 
 
